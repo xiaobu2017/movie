@@ -36,34 +36,34 @@
 
 ## 三、预览图
 
-http://124.222.106.130:8081/xiaoyu/#/article/5
+http://111.231.74.123:8081/xiaoyu/#/article/5
 
 后台管理员界面：
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718090261881476.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718090261881476.png)
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718090283946303.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718090283946303.png)
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718090315254624.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718090315254624.png)
 
 前台页面：
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718087935920255.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718087935920255.png)
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718087975164813.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718087975164813.png)
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718121231754141.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718121231754141.png)
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara1171812126933782.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara1171812126933782.png)
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718121279928726.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718121279928726.png)
 
 
 ## 四、在线预览地址
 
 管理员页面地址：
-http://124.222.106.130:8081/xiaoyu/#/article/5
-[点此跳转](http://124.222.106.130:8081/xiaoyu/#/article/5)
+http://111.231.74.123:8081/xiaoyu/#/article/5
+[点此跳转](http://111.231.74.123:8081/xiaoyu/#/article/5)
 
 管理员用户名密码：admin/123456
 
